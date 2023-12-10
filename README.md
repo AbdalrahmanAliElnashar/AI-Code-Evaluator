@@ -25,13 +25,6 @@ Gain a clear understanding of your code's performance through visual representat
 
 ## Usage
 ### Getting Started
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/your-username/your-repo.git
-
-### Getting Started
 Install the required Python packages by running:
 
 ``` bash
