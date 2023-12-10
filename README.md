@@ -38,15 +38,15 @@ Run the app using the following command:
 streamlit run app.py
 ```
 
-### Description and Code Input
+#### Description and Code Input
 - Enter a description of the code in the "Description" text area.
 - Provide the code in the "Code" text area.
 
-### Evaluation
+#### Evaluation
 - Enter your Google API Key in the sidebar.
 - Click the "Evaluate" button to initiate the code evaluation.
 
-### Code Insights
+#### Code Insights
 - The app calculates percentages for Closeness, Modularity, Performance, Readability, and Cleaning of the code.
 - The evaluation metrics are displayed using visuals and metrics in the main app area.
 
