@@ -9,7 +9,7 @@ CodeMentor Pro is a Streamlit web application that leverages the Google Palm Lan
 
 
 ## Key Features
-1. Code Matching and Insightful Feedback
+- 1. Code Matching and Insightful Feedback
 CodeMentor Pro employs advanced algorithms to evaluate the alignment between your code and its provided description. Receive comprehensive insights into modularity, performance, readability, and cleaning, allowing you to understand your code's strengths and areas for improvement.
 
 2. Recommendations for Enhancement
