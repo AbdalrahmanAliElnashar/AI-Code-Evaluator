@@ -22,3 +22,19 @@ With a sleek and intuitive interface powered by Streamlit, CodeMentor Pro ensure
 - **Metric Visualization:**
 Gain a clear understanding of your code's performance through visual representations of key metrics. CodeMentor Pro visually presents the percentage of closeness, modularity, performance, readability, and cleaning. These visualizations facilitate quick and informed decision-making, empowering you to make impactful changes to your code.
 
+
+## Usage
+### Getting Started
+Install the required Python packages by running:
+
+``` bash
+pip install streamlit langchain re
+```
+Make sure to have a valid Google API key for the Google Palm Language Model. You can obtain one [here](https://makersuite.google.com/app/apikey).
+
+Run the app using the following command:
+
+``` bash
+streamlit run app.py
+```
+
