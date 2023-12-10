@@ -50,3 +50,8 @@ streamlit run app.py
 - The app calculates percentages for Closeness, Modularity, Performance, Readability, and Cleaning of the code.
 - The evaluation metrics are displayed using visuals and metrics in the main app area.
 
+
+## Sidebar Configuration
+Enter your Google API key in the sidebar to unlock the full potential of the Google Palm Language Model.
+
+Need an API key? [Get Google PaLM API key.](https://makersuite.google.com/app/apikey)
