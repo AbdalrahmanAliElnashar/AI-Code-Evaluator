@@ -55,3 +55,6 @@ streamlit run app.py
 Enter your Google API key in the sidebar to unlock the full potential of the Google Palm Language Model.
 
 Need an API key? [Get Google PaLM API key.](https://makersuite.google.com/app/apikey)
+
+## Conclusion
+CodeMentor Pro is a tool designed to assist developers in assessing their code based on provided descriptions. It offers insights into code matching, modularity, performance, readability, and cleaning. The app aims to streamline the evaluation process and provide valuable recommendations for code improvement.
